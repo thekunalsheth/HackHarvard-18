@@ -15,7 +15,7 @@ def get_prediction(content, project_id, model_id):
 
 if __name__ == '__main__':
     file_path = sys.argv[1]
-    file_path = "/Users/alaashamandy/Desktop/Work/Development/hackharvard/cropped.jpg"
+    file_path = "/Users/alaashamandy/Desktop/Work/Development/hackharvard/HackHarvard-18/cropped.jpg"
     project_id = "storied-port-220005"
     model_id = "ICN6771425939369298234"
     
